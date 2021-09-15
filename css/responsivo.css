@@ -1,0 +1,23 @@
+.secao{
+    float: left;
+    width: 100%;
+}
+.mini{
+    float: left;
+    width: 50%;
+}
+.secao{
+    padding: 0 1%;
+}
+
+
+img {
+    max-width: 100%;
+}
+.destaques{
+    margin-top: 1em;
+}
+
+.logo img {
+    width: 200px;
+}
